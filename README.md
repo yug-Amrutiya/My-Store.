@@ -1,1 +1,1 @@
-# My-Store.
+E-commerce web-site of My-Store.
